@@ -1,0 +1,60 @@
+.open-sans-uniquifier{
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+  #title{
+    background-color: #2d9e37;
+    font-family: "Open Sans";
+    color:#fff;
+}
+#footer{
+  background-color: #2d9e37;
+}
+#goofy{
+    background-color: #A0D683 ;
+     padding-left: 15%;
+}
+  #reviews{
+    text-align: center;
+    font-family: "Open Sans";
+    text-align: center;
+    background-color: #A0D683;
+  }
+#navbar{
+  background-color: #2d9e37;
+  font-family: "Open Sans";
+  color:#fff;
+}
+
+  .carouselImage{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+  }
+
+.imagecard{
+    height: 200px; width: 285px;
+}
+.title-image{
+  width: 120%;
+  padding-right: 70%;
+}
+.navImage{
+  width: 3%;
+}
+.zesty{
+  width: 50%;
+  padding-right: 15%;
+}
+.open-sans-uniquifier{
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style:normal;
+  font-variation-settings: "width" 100;
+}
+.white{
+  color: #fff;
+}
